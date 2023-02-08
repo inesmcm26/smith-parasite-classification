@@ -38,8 +38,13 @@ The data about the patients whose target we want to predict:
 5. **Assessment and Final Model Choice**: The best final model is choosen and used to predict the *test set* target.
 
 Decision Boundaries
+
 ![Decision Boundaries](images/decision_boundaries.png)
+
 ROC Curve
+
 ![ROC Curve](images/roc.png)
+
 Confusion Matrix
+
 ![Confusion Matrix](images/confusion_matrix.png)
